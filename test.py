@@ -12,7 +12,7 @@ author: Jan Bodnar
 website: zetcode.com 
 last edited: January 2015
 """
-
+import os
 import sys
 from PyQt5.QtWidgets import (QWidget, QLabel, QLineEdit, 
     QTextEdit, QGridLayout, QApplication)
